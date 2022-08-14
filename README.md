@@ -1,14 +1,3 @@
-# Portf-lio
-Portfólio do Desenvolvvedor
+# 📚 Portfólio do Desenvolvedor 
 
-
-##
-
-O controle das tarefas desse projeto será realizado no Github
-
-## Icones
-
--  :package: Nova funcionalidade 
--  :up: Atualização
--  :beetle: Correção de Bug
--  :checkered_flag: Release
+Neste projeto foi criado um site web na intenção de mostrar o portfólio de um programador, utilizando HTML, e CSS e JavaScript para criação e animação das telas.
